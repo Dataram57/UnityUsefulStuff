@@ -1,5 +1,8 @@
 ﻿using System.Collections.Generic;
 
+namespace Tabowo.misc
+{
+
 public class TabowoScriptInterpreter
 {
     //version 1.0.0
@@ -82,4 +85,5 @@ public class TabowoScriptInterpreter
 
 
 
+}
 }
